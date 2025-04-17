@@ -36,7 +36,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ![image](https://github.com/user-attachments/assets/5f2f8b75-919f-49fa-be37-f48eb91c2262)
 We must create a Virtual Machine in Microsoft Azure. Log into Azure. When you logged in, go to Virtual Machines->Create a Virtual Machine. Under size, you must make sure that your VM has AT LEAST 2 vCPU's. This will help with the overall speed of the VM.                                                                                                                                                                                                                                          
 ![image](https://github.com/user-attachments/assets/0a3e71d7-7d88-4599-bdc9-6a575a208cc9)
-<p>
+<p>Next, you need to remote in to the VM using Remote Desktop Protocol. I am running a Mac, so I am using the Windows App. To log in, you need to have the IP address for the Windows VM, copy it into the RDP software, give it a name, and log in using the credentials you would have used when you created the VM.
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
