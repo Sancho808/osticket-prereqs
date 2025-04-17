@@ -29,8 +29,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Set up database using HeidiSQL/MYSQL
 - Login to osTicket  
 <h2>Installation Steps</h2>                                                                                                   [image](https://github.com/user-attachments/assets/d1285e52-47ef-4f6f-92f6-8c221185718c)
-![image](https://github.com/user-attachments/assets/74d29ea4-46fd-483f-88af-3ea8d936e65c)
- ![image](https://github.com/user-attachments/assets/5f2f8b75-919f-49fa-be37-f48eb91c2262)
+[image](https://github.com/user-attachments/assets/74d29ea4-46fd-483f-88af-3ea8d936e65c)
+[image](https://github.com/user-attachments/assets/5f2f8b75-919f-49fa-be37-f48eb91c2262)
  <h2>Installation Steps</h2>
 
 <p>
