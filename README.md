@@ -2,8 +2,6 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<img src="https://i.imgur.com/Clzj7Xs.png"/>
-</p>
 
 <h1> How to Install osTicket </h1>
 This is an easy guide to installing a help desk ticketing system called osTicket.<br/>
