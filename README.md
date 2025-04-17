@@ -36,7 +36,8 @@ Create a Windows 10 Virtual Machine (VM), typically with 2-4 Virtual CPUs. For u
 ![image](https://github.com/user-attachments/assets/74d29ea4-46fd-483f-88af-3ea8d936e65c)
 ![image](https://github.com/user-attachments/assets/5f2f8b75-919f-49fa-be37-f48eb91c2262)
 <p>Now to, Remotely to connect the VM using Remote Desktop Protocol. Next using the IP address from the Windows VM, copy it into the RDP software, use the same name you logged in with the username & password you would have used when you created the VM.                                                                                                                                                                                                                                          
-![image](https://github.com/user-attachments/assets/41e54d3d-41f1-4707-b18f-abeb73bd6f52)
+                                                                                                                   
+ ![image](https://github.com/user-attachments/assets/41e54d3d-41f1-4707-b18f-abeb73bd6f52)
                                                                                                                                                                                                                                                                                                                                                 
                                                                                                           
                                                                                                       
