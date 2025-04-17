@@ -43,6 +43,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Set up database using HeidiSQL/MYSQL
 - Login to osTicket  
                                                                                                                                     
+![image](https://github.com/user-attachments/assets/eeabdddb-110b-406c-a0a3-abfdc82b7b47)
 
   <h2>Installation Steps</h2>
 First, start by creating a Resource Group inside Azure.                                                                                                             
