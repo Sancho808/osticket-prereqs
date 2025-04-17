@@ -1,7 +1,17 @@
 # osticke<p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
+NzcxZC6Ez<p align="center">
+<img src="https://i.imgur.com/Clzj7Xs.png"/>
+</p>
 
+<h1> How to Install osTicket </h1>
+This is an easy guide to installing a help desk ticketing system called osTicket.<br/>
+
+
+<h2> Files You Need to Download</h2>
+
+- ### [Download Now](https://drive.google.com/drive/u/2/folders/1APMfNyfdaNfdZsUwxWYChf6) 📁
 <h1>osTicket - Prerequisites and Installation</h1>
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
