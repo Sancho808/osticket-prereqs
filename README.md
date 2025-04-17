@@ -25,7 +25,7 @@ This is an easy guide to installing a help desk ticketing system called osTicket
  Create a Resource Group inside Azure.                                                                                                                                 
                                                                                                                    
                                                                                                                    
- ![image](https://github.com/user-attachments/assets/eeabdddb-110b-406c-a0a3-abfdc82b7b47                                                                                                                                                                                                                                          
+![image](https://github.com/user-attachments/assets/dd3825a7-fcd9-4654-9d35-5760e96707fb)
                                                                                                                                                                                                                                                                                                                                                          
                                                                                                                
                                                                                                                
