@@ -16,21 +16,8 @@ This is an easy guide to installing a help desk ticketing system called osTicket
 - Microsoft Azure (Virtual Machines)
 - Remote Desktop (RDP)
 - Internet Information Services (IIS)
-<h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
-
-
-
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
-
-<h2>Environments and Technologies Used</h2>
-
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Internet Information Services (IIS)
-
-- Login to osTicket  
+  
     <h2>Steps</h2>
 <h3 align="center">Create Virtual Machine in Azure</h3>
 <br />                                                                                                                                                        
