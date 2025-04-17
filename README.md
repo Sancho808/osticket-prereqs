@@ -48,6 +48,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
  First, start by creating a Resource Group inside Azure.                                                                                                                                 
                                                                                                                    
 ![image](https://github.com/user-attachments/assets/eeabdddb-110b-406c-a0a3-abfdc82b7b47)
+                                                                                                                                                                                                                                                                                                                                                     
+ Now, create a Windows 10 Virtual Machine (VM), typically with 2-4 Virtual CPUs. For username and password, it can be anything as we'll be using this info to remote in with our main computer. When creating the Virtual Machine (VM), allow Azure to create a new Virtual Network (Vnet):
                                                                                                             
 ![image](https://github.com/user-attachments/assets/d1285e52-47ef-4f6f-92f6-8c221185718c)
 ![image](https://github.com/user-attachments/assets/74d29ea4-46fd-483f-88af-3ea8d936e65c)
