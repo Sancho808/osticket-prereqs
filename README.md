@@ -29,6 +29,7 @@ This is an easy guide to installing a help desk ticketing system called osTicket
                                                                                                                                                                                                                                                                                                                                                          
                                                                                                                
                                                                                                                
+                                                                                                             
 Create a Windows 10 Virtual Machine (VM), typically with 2-4 Virtual CPUs. For username and password, it can be anything. This will help with the overall speed of the VM.                                                                                                                                                                                                                                                                                                                                                     
                                                                                                             
 ![image](https://github.com/user-attachments/assets/d1285e52-47ef-4f6f-92f6-8c221185718c)
