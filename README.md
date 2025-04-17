@@ -45,10 +45,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
     <h2>Steps</h2>
 <h3 align="center">Create Virtual Machine in Azure</h3>
 <br />                                                                                                                                                        
- First, start by creating a Resource Group inside Azure.                                                                                                                                 
+ Create a Resource Group inside Azure.                                                                                                                                 
                                                                                                                    
 ![image](https://github.com/user-attachments/assets/eeabdddb-110b-406c-a0a3-abfdc82b7b47)
- We must create a Virtual Machine in Microsoft Azure. Log into Azure. When you logged in, go to Virtual Machines->Create a Virtual Machine. Under size, you must make sure that your VM has AT LEAST 2 vCPU's. This will help with the overall speed of the VM.                                                                                                                                                                                                                                          
+Then create a Virtual Machine in Microsoft Azure. Log into Azure. When you logged in, go to Virtual Machines->Create a Virtual Machine. Under size, you must make sure that your VM has AT LEAST 2 vCPU's. This will help with the overall speed of the VM.                                                                                                                                                                                                                                          
                                                                                                                                                                                                                                                                                                                                                     
                                                                                                             
 ![image](https://github.com/user-attachments/assets/d1285e52-47ef-4f6f-92f6-8c221185718c)
