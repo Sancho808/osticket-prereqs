@@ -30,17 +30,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Remote Desktop
 - Internet Information Services (IIS)
 
-<h2>Operating Systems Used </h2>
-
-- Windows 10</b> (21H2)
-
-<h2>List of Prerequisites</h2>
-
-- Setting up Windows 10 Virtual Machine (VM) in Azure 
-- Log into Remote Desk Top (RDP)
-- Set up Internet Information Services (IIS) inside Windows VM
-- Download osTicket software
-- Set up database using HeidiSQL/MYSQL
 - Login to osTicket  
     <h2>Steps</h2>
 <h3 align="center">Create Virtual Machine in Azure</h3>
