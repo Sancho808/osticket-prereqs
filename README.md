@@ -34,7 +34,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ![image](https://github.com/user-attachments/assets/d1285e52-47ef-4f6f-92f6-8c221185718c)
 ![image](https://github.com/user-attachments/assets/74d29ea4-46fd-483f-88af-3ea8d936e65c)
 ![image](https://github.com/user-attachments/assets/5f2f8b75-919f-49fa-be37-f48eb91c2262)
-![image](https://github.com/user-attachments/assets/0a3e71d7-7d88-4599-bdc9-6a575a208cc9)
+we must create our Virtual Machine in Microsoft Azure. Go to Azure's website, and log in. After you log in, go to Virtual Machines->Create a Virtual Machine. Make sure that your VM has all of the RED starred pieces of info filled in. Under size, you want to make sure that your VM has AT LEAST 2 vCPU's. This will help with the overall speed of the VM.                                                                                                                                        ![image](https://github.com/user-attachments/assets/0a3e71d7-7d88-4599-bdc9-6a575a208cc9)
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
