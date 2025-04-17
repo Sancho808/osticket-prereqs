@@ -22,12 +22,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
-
+- Setting up Windows 10 Virtual Machine (VM) in Azure 
+- Log into Remote Desk Top (RDP)
+- Set up Internet Information Services (IIS) inside Windows VM
+- Download osTicket software
+- Set up database using HeidiSQL/MYSQL
+- Login to osTicket  
 <h2>Installation Steps</h2>
 
 <p>
