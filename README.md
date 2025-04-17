@@ -1,7 +1,7 @@
 # osticke<p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
-NzcxZC6Ez<p align="center">
+
 <img src="https://i.imgur.com/Clzj7Xs.png"/>
 </p>
 
