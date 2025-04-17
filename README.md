@@ -39,7 +39,7 @@ Create a Windows 10 Virtual Machine (VM), typically with 2-4 Virtual CPUs. For u
 ![image](https://github.com/user-attachments/assets/41e54d3d-41f1-4707-b18f-abeb73bd6f52)
                                                                                                                                                                                                                                                                                                                                                 
                                                                                                           
- <h2>Video Demonstration</h2>                                                                                                      
+                                                                                                      
 ><img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
