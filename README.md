@@ -46,8 +46,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h3 align="center">Create Virtual Machine in Azure</h3>
 <br /> First, start by creating a Resource Group inside Azure.                                                                                                                                 
 ![image](https://github.com/user-attachments/assets/eeabdddb-110b-406c-a0a3-abfdc82b7b47)
-
-  <h2>Installation Steps</h2>
                                                                                                             
 ![image](https://github.com/user-attachments/assets/d1285e52-47ef-4f6f-92f6-8c221185718c)
 ![image](https://github.com/user-attachments/assets/74d29ea4-46fd-483f-88af-3ea8d936e65c)
