@@ -42,7 +42,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Download osTicket software
 - Set up database using HeidiSQL/MYSQL
 - Login to osTicket  
-   First, start by creating a Resource Group inside Azure.                                                                                                                                 
+    <h2>Steps</h2>
+<h3 align="center">Create Virtual Machine in Azure</h3>
+<br /> First, start by creating a Resource Group inside Azure.                                                                                                                                 
 ![image](https://github.com/user-attachments/assets/eeabdddb-110b-406c-a0a3-abfdc82b7b47)
 
   <h2>Installation Steps</h2>
