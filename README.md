@@ -38,7 +38,8 @@ Create a Windows 10 Virtual Machine (VM), typically with 2-4 Virtual CPUs. For u
 <p>Next, you need to remote in to the VM using Remote Desktop Protocol. I am running a Mac, so I am using the Windows App. To log in, you need to have the IP address for the Windows VM, copy it into the RDP software, give it a name, and log in using the credentials you would have used when you created the VM.                                                                                                                                                                                                                                          
 ![image](https://github.com/user-attachments/assets/41e54d3d-41f1-4707-b18f-abeb73bd6f52)
                                                                                                                                                                                                                                                                                                                                                 
-<h2>Video Demonstration</h2>                                                                                                      
+                                                                                                          
+ <h2>Video Demonstration</h2>                                                                                                      
 ><img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
