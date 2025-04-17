@@ -10,6 +10,12 @@ This is an easy guide to installing a help desk ticketing system called osTicket
 <h2> Files You Need to Download</h2>
 
 - ### [Download Now](https://drive.google.com/drive/u/2/folders/1APMfNyfdaNfdZsUwxWYChf6) 📁
+<h2> Software & Technologies  Used</h2>
+
+- Windows 10 (Build 19044)
+- Microsoft Azure (Virtual Machines)
+- Remote Desktop (RDP)
+- Internet Information Services (IIS)
 <h1>osTicket - Prerequisites and Installation</h1>
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
