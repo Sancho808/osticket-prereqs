@@ -43,10 +43,10 @@ Create a Windows 10 Virtual Machine (VM), typically with 2-4 Virtual CPUs. For u
                                                                                                       
 Once clicked, find the "Internet Information Services" expand it and then expand the "World Wide Web" tab. Afterward, expand the application Developer tab. Finally check the "CGI" button & press Ok. You will need CGI to download the PHP Manager. The PHP manager is a back-end web programming language that allows osTicket to run off a web browser.                                                                                                       
  ![image](https://github.com/user-attachments/assets/69bd0998-4277-4c88-83dc-925e28b32631)
-                                                                                                                                                             
-                                                           Install PHP Manager                                                                                                                                                                    
+                                                               Install PHP Manager                                                                                               
+                                                                                                                                                                                                                     
                                                                                                                                                                     
-</p>
+
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
