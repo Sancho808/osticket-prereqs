@@ -45,7 +45,7 @@ Once clicked, find the "Internet Information Services" expand it and then expand
                                                                                                                                                                                                                                                                                                                                         
  ![image](https://github.com/user-attachments/assets/69bd0998-4277-4c88-83dc-925e28b32631)
                                                                                                                                                              
-                                                          Install PHP Manager                                                                                                      
+                                                                                                                                                 
                                                                                                                                                        
                                                                                                                                                                     
                                                                                                                                                                     
