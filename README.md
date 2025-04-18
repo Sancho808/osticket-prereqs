@@ -45,7 +45,6 @@ Once clicked, find the "Internet Information Services" expand it and then expand
  ![image](https://github.com/user-attachments/assets/69bd0998-4277-4c88-83dc-925e28b32631)
                                                                                                                                                              
                                                                  Install PHP Manager                                                                                                                                                 
-                               Download the PHP manager file, and agree with all the terms. We've now downloaded the PHP manager into our operating system.                                        
                                                                                                                                                                     
                 ><img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
