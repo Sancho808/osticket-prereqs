@@ -45,12 +45,15 @@ Once clicked, find the "Internet Information Services" expand it and then expand
                                                                                                                                                                                                                                                                                                                                         
  ![image](https://github.com/user-attachments/assets/69bd0998-4277-4c88-83dc-925e28b32631)
                                                                                                                                                              
-                                                           Install PHP Manager                                                                                               
-              Download the PHP manager file, and agree with all the terms. We've now downloaded the PHP manager into our operating system.                                                                                                                                                                                                            
-                                                  ![image](https://github.com/user-attachments/assets/0d777fcb-e7b4-4ab8-9c6a-a87640fa45e5)
-                                                              Install Rewrite Module                                                                                                      
+                                                          Install PHP Manager                                                                                                      
+                                                                                                                                                       
+                                                                                                                                                                    
+                                                                                                                                                                    
+ ![image](https://github.com/user-attachments/assets/0d777fcb-e7b4-4ab8-9c6a-a87640fa45e5)
+                                                             
                                                                                                                                                                 
-                                                                                                                                                                     
+  ![image](https://github.com/user-attachments/assets/f6d5a4a1-eb7a-44c0-a736-7a15ab8d7253)
+                                                                                                                                                                   
                                             
 
 
