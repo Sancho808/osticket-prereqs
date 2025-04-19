@@ -65,9 +65,25 @@ Once clicked, find the "Internet Information Services" expand it and then expand
                                                                                                                                                                                           
 ![image](https://github.com/user-attachments/assets/f6d5a4a1-eb7a-44c0-a736-7a15ab8d7253)
                                                                                                                                                                    
-                                            
-![image](https://github.com/user-attachments/assets/aff31b37-f23f-44a6-b85c-1b582bad8bec)
+</p>
+<br/>
+<h3 align="center">CREATE DIRECTORY C:\PHP</h3>
+<br />
+<p>                                            
+<h3 align="center"> Open File Explorer, type, "C:\" in the search bar, Right-click and create a new folder called, "PHP". Download php-7.3.8-nts-Win32-VC15-x86.zip from<a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6"> Files You Need to Download</a>, Extract it by going to where you download the file, Right-click the PHP 7.3.8 file and press extract to the PHP Folder you just created.
+</h3>
+<p>                                                                                                                                                                                       
+                                                                                                                                                                                          
+ ![image](https://github.com/user-attachments/assets/aff31b37-f23f-44a6-b85c-1b582bad8bec)
 
+</p>
+<br/>
+<h3 align="center">VC_REDIST DOWNLOAD</h3>
+<br/>
+<h3 align="center"> Download and install VC_Redist, Agree with any terms and agreements and finish installing.
+</h3>
+<p>                                                                                                                                                                                      
+                                                                                                                                                                                         
 ![image](https://github.com/user-attachments/assets/d6923514-6776-4731-9437-fa170cc531ca)
 ![image](https://github.com/user-attachments/assets/2f7aea2b-803f-4a5c-b0da-44de21e7152d)
 
