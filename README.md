@@ -50,7 +50,7 @@ Once clicked, find the "Internet Information Services" expand it and then expand
   <br>                                                                                                                                                                                         
 <h3 align="center">Install PHP Manager</h3>
 
- <h3 align="center">Download the PHP manager file, and agree with all the terms. We've now downloaded the PHP manager into our operating system.</h3>
+ <h3 align="center">Download the PHP manager file, and agree with all the terms. Now PHP manager is downloaded to our operating system.</h3>
 <p>                                                                                                                                     
                                                                                                                                                        
                                                                                                                                                                     
