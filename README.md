@@ -85,7 +85,14 @@ Once clicked, find the "Internet Information Services" expand it and then expand
 <p>                                                                                                                                                                                      
                                                                                                                                                                                          
 ![image](https://github.com/user-attachments/assets/d6923514-6776-4731-9437-fa170cc531ca)
-![image](https://github.com/user-attachments/assets/2f7aea2b-803f-4a5c-b0da-44de21e7152d)
+</p>
+<br/>
+<h3 align="center">DOWNLOAD MySQL </h3>
+<h3 align="center"> Download and install MySQL, Agree with any terms and agreements up until you get to the password portion. Here you can create a username and password for the database that you'll be using to store the Ticket Information used in osTicket. 
+</h3>
+<p>                                                                                                                                                                                      
+                                                                                                                                                                                         
+ ![image](https://github.com/user-attachments/assets/2f7aea2b-803f-4a5c-b0da-44de21e7152d)
 
 </p>
 <br />
