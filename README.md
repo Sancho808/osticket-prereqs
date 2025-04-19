@@ -57,7 +57,12 @@ Once clicked, find the "Internet Information Services" expand it and then expand
                                                                                                                                                                     
  ![image](https://github.com/user-attachments/assets/0d777fcb-e7b4-4ab8-9c6a-a87640fa45e5)
                                                              
-                                                                                                                                                                
+   <h3 align="center">Install Rewrite Module</h3>                                                                                                                                                             
+  <br />
+<p>
+<h3 align="center">Download the Rewrite Module file, agree with all the terms and it should now be installed onto the Computer.</h3>
+<p>                                                                                                                                                                                        
+                                                                                                                                                                                          
 ![image](https://github.com/user-attachments/assets/f6d5a4a1-eb7a-44c0-a736-7a15ab8d7253)
                                                                                                                                                                    
                                             
