@@ -174,9 +174,12 @@ Once clicked, find the "Internet Information Services" expand it and then expand
                                                                                                                                                                                                                                                                                                                                                                                                                   
  <p>Finish filling out data base settings now click install.</p>                                                                                                                                                                                                        
 <p>osTicket is now installed.</p>                                                           
+ <p>                                                                                                                                                                                                      
+                                                                                                                                                                                                         
+![image](https://github.com/user-attachments/assets/1f6205f3-955f-4924-b3e2-454cc62ee3d7)
 <br />
 
-<p>
+</p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
