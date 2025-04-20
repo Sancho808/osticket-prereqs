@@ -129,7 +129,9 @@ Once clicked, find the "Internet Information Services" expand it and then expand
 <br />
 <p>
 	From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php.
+	To: C:\inetpub\wwwroot\osTicket\include\ost-config.php:
 </p>
+<p></p>
 <p>                                                                                                                                                                                                  
  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
