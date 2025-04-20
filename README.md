@@ -92,12 +92,17 @@ Once clicked, find the "Internet Information Services" expand it and then expand
 </h3>
 <p>                                                                                                                                                                                      
                                                                                                                                                                                          
- ![image](https://github.com/user-attachments/assets/2f7aea2b-803f-4a5c-b0da-44de21e7152d)
+ ![image](https://github.com/user-attachments/assets/afc5c227-9abe-4e22-84ee-8932a2ba388f)
+                                                                                                                                                                                                        
+                                                                                                                                                                                                         
+          
 
 </p>
 <br />
 
-<p>
+<p>                                                                                                                                                                                                      
+ ![image](https://github.com/user-attachments/assets/fd7d8eee-cab0-446f-ad76-d3b44b5cfb26)
+
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
