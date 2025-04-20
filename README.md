@@ -143,10 +143,12 @@ Once clicked, find the "Internet Information Services" expand it and then expand
 <p>
 	Disable inheritance -> Remove All:
 </p>                                                                                                                                                                                                                                                                                                                                                                                                          
- 
-                                                                                                                                                                                                                                                                                                                                                                                                               
- </p>
-<p>
+<p> 
+                                                                                                                                                                                                         
+![image](https://github.com/user-attachments/assets/ce6fd626-c220-4b75-b9d6-0162b8114a2e)
+                                                                                                                                                                                                                                                                                                                                                                                                             
+
+</p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
