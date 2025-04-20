@@ -155,7 +155,18 @@ Once clicked, find the "Internet Information Services" expand it and then expand
                                                                                                                                                                                                          
 ![image](https://github.com/user-attachments/assets/74e90c26-9f11-4368-8ba0-6e90c513d753)
 ![image](https://github.com/user-attachments/assets/3debda0b-36c0-4c48-913d-b123ec77a2a1)
-</p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<p> Fill out osTicket install                                                                                                                                                                   
+                                                                                                                                                                                                                                                                                                                                                                                                         
+ ![image](https://github.com/user-attachments/assets/b074fe64-a878-4998-b42f-0d46e609d6c4)
+                                                                                                                                                                                               
+</p><br />
+<br />
+<h3 align="center">Download and Install HeidiSQL</h3>
+<br />                                                                                                                                                                                              
+                                                                                                                                                                                                                                                                                                                                                                                                             
+![image](https://github.com/user-attachments/assets/f8404c15-27a3-46f4-9f26-8b269f15e411)
+</p>                                                                                                                                                                                                
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 
