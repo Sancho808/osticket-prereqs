@@ -131,10 +131,15 @@ Once clicked, find the "Internet Information Services" expand it and then expand
 	From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php.
 	To: C:\inetpub\wwwroot\osTicket\include\ost-config.php:
 </p>
-<p></p>
-<p>                                                                                                                                                                                                  
- <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>                                                                                                                                                                                                      
+                                                                                                                                                                                                         
+ ![image](https://github.com/user-attachments/assets/05f9a6b7-7e65-49e3-a151-271826f072cc)
 </p>
+<p>                                                                                                                                                                                                  
+                                                                                                                                                                                                                                                                                                                                                                                                              
+ 
+                                                                                                                                                                                                                                                                                                                                                                                                               
+ </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
