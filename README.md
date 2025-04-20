@@ -100,8 +100,15 @@ Once clicked, find the "Internet Information Services" expand it and then expand
 </p>
 <br />
 
-<p>                                                                                                                                                                                                      
- ![image](https://github.com/user-attachments/assets/fd7d8eee-cab0-446f-ad76-d3b44b5cfb26)
+<h3 align="center">Install osTicket v1.15.8</h3>
+<br />
+<p>
+  Download osTicket (download from within lab files: link).
+</p>
+<p>
+	Extract and copy the “upload” folder INTO c:\inetpub\wwwroot:
+</p>                                                                                                                                                                                                      
+ 
 
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
