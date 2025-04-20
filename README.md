@@ -116,7 +116,8 @@ Once clicked, find the "Internet Information Services" expand it and then expand
 ![image](https://github.com/user-attachments/assets/e9440d79-021d-4297-8d7f-029e0f12654d)
 ![image](https://github.com/user-attachments/assets/12932447-3cc1-41da-bd1f-9f508bde5fd6)
 </p>
-
+<p> Now goto sites-> default-> osTicket. Double click PHP Manager= able or disable= enable imapdill/intidill/opcache.dill refresh server.                                                                
+</p> 
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
