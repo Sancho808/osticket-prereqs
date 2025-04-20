@@ -136,7 +136,13 @@ Once clicked, find the "Internet Information Services" expand it and then expand
  ![image](https://github.com/user-attachments/assets/05f9a6b7-7e65-49e3-a151-271826f072cc)
 </p>
 <p>                                                                                                                                                                                                  
-                                                                                                                                                                                                                                                                                                                                                                                                              
+    <br />
+<br />
+<h3 align="center">Assign Permissions: ost-config.php</h3>
+<br />
+<p>
+	Disable inheritance -> Remove All:
+</p>                                                                                                                                                                                                                                                                                                                                                                                                          
  
                                                                                                                                                                                                                                                                                                                                                                                                                
  </p>
