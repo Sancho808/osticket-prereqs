@@ -107,7 +107,7 @@ Once clicked, find the "Internet Information Services" expand it and then expand
   Download osTicket (download from within lab files: link).
 </p>
 <p>
-	Extract and copy the “upload” folder INTO c:\inetpub\wwwroot:
+	Extract and copy the “upload” folder INTO c:\inetpub\wwwroot:. Inside C:\inetpub\www.root rename upload to osTicket. Load IIS again and stop & restart server. Then goto sites-> default-> osTicket. Browse folder and click Browse *;80(HTTP) 
 </p>                                                                                                                                                                                                      
 <p>                                                                                                                                                                                                  
                                                                                                                                                                                                          
