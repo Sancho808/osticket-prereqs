@@ -124,7 +124,14 @@ Once clicked, find the "Internet Information Services" expand it and then expand
  ![image](https://github.com/user-attachments/assets/ead0ca0f-6ed4-4473-be0d-2150c2f13aee)
                                                                                                                                                                                                                                                                                                                                                                                                              
  </p>                                                                                                                                                                                                 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<h3 align="center">Rename</h3>
+<br />
+<p>
+	From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php.
+</p>
+<p>                                                                                                                                                                                                  
+ <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
