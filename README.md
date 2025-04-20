@@ -172,9 +172,8 @@ Once clicked, find the "Internet Information Services" expand it and then expand
 ![image](https://github.com/user-attachments/assets/9c3ca2d5-7c11-4565-b021-f9fc3e0335b8)
 </p>                                                                                                                                                                                                     
                                                                                                                                                                                                                                                                                                                                                                                                                   
- <p>Finish filling out data base settings</p>                                                                                                                                                                                                        
- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+ <p>Finish filling out data base settings now click install.</p>                                                                                                                                                                                                        
+<p>osTicket is now installed.</p>                                                           
 <br />
 
 <p>
